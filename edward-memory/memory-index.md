@@ -13,6 +13,8 @@
 
 ## 工作規則
 
+- [GitHub 同步範圍](rules/github-sync-scope.md)：sync github 固定同步 claude-config-sync、ai-collaboration-governance、mempalace，目的為跨電腦 AI agents 同步（2026-09-12 使用者指定）。
+
 | 規則 | 檔案 | 說明 |
 |------|------|------|
 | 強目標格式 | `rules/strong-goals.md` | 目標必須可驗證 |
