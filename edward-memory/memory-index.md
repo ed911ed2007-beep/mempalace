@@ -44,3 +44,5 @@
 位置：`~/ai-lab/memory/`
 查詢：`python -m memory.cli search "query"`
 統計：34 條記憶
+
+- [離題王 TASK-034 交接](daily-log/2026-09-13.md) — 圖片核心是身分錯置與道具反噬；已完成程式，待真實圖片評估。
