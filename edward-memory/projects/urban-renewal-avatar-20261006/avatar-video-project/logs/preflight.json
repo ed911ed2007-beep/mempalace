@@ -1,0 +1,15 @@
+{
+  "status": "BLOCKED_ASSET_RIGHTS",
+  "characters_excluding_whitespace": 1295,
+  "estimated_seconds": [
+    259,
+    324
+  ],
+  "estimate_basis": "4–5 non-whitespace characters per second; not measured audio",
+  "aspect_ratio": "16:9",
+  "blockers": [
+    "Avatar rights and generation route unconfirmed",
+    "speaker xxx unresolved"
+  ],
+  "media_test": "PASS"
+}

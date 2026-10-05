@@ -1,0 +1,202 @@
+[
+  {
+    "file": "avatar-video-project/README.md",
+    "sha256": "d907e4cad1fbfde04ec0e4c70f647c7a3de0a80a80c88c6d562ea35cc8f9000b",
+    "bytes": 376
+  },
+  {
+    "file": "avatar-video-project/work/narration_manifest_draft.csv",
+    "sha256": "eff298795375e631085f8b3d1364011a3ec01f410d2e75464057d6f8caf56dab",
+    "bytes": 6163
+  },
+  {
+    "file": "avatar-video-project/work/segments_draft.json",
+    "sha256": "fc2eb76530738f7145b7366c9118f8d8d5ea171cb29efd8c347789a1432e666c",
+    "bytes": 8369
+  },
+  {
+    "file": "avatar-video-project/work/transcript_segments_draft.md",
+    "sha256": "47d17324cc10211ecbe5c79dd10d7797f5fb918ffe9f8c7065cec07f2d9f5a29",
+    "bytes": 4650
+  },
+  {
+    "file": "avatar-video-project/work/scene_manifest_draft.csv",
+    "sha256": "bb2d521717d73610c62bac0f2f9a8a718c04063cd319165431062ab71362ac0f",
+    "bytes": 5945
+  },
+  {
+    "file": "avatar-video-project/scripts/generate_piper_draft.py",
+    "sha256": "a58eeb05aeba449a68aab0f4642f8aabe2c3cfbdd29ce4cc00cbf9c76a8923c2",
+    "bytes": 3873
+  },
+  {
+    "file": "avatar-video-project/input/transcript_zh-TW.txt",
+    "sha256": "1500141f12015f0928a1eb1f8abb61574a5684040b2edbabab4cc260316e9f2a",
+    "bytes": 3938
+  },
+  {
+    "file": "avatar-video-project/logs/avatar_media_test.json",
+    "sha256": "301d9a45d0f805446db72bc58d71ca316a58755e1eb37ed7cac430d0deddf32e",
+    "bytes": 1767
+  },
+  {
+    "file": "avatar-video-project/logs/piper_narration_draft.json",
+    "sha256": "7bd7defdd7c4271cfc4b2ba8b6851bf36cbf786716ce8e81f165dc30f4350370",
+    "bytes": 9534
+  },
+  {
+    "file": "avatar-video-project/logs/source_decode_errors.log",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "file": "avatar-video-project/logs/source_ffprobe.json",
+    "sha256": "984f5e086191fecebf8c53a6d063c016bcacf4712a414d7fb45697a075923f09",
+    "bytes": 564
+  },
+  {
+    "file": "avatar-video-project/logs/source_sha256.json",
+    "sha256": "a5b401ecc81f2748e319b8929e28abbc00691762c4ec1a6bf8f3896c19166342",
+    "bytes": 629
+  },
+  {
+    "file": "avatar-video-project/logs/copy_ffprobe.json",
+    "sha256": "984f5e086191fecebf8c53a6d063c016bcacf4712a414d7fb45697a075923f09",
+    "bytes": 564
+  },
+  {
+    "file": "avatar-video-project/logs/preflight.json",
+    "sha256": "c0efc283f3833bc2528a3e8c28656f80695e38c381ecb88c6e01477fadc3fcd2",
+    "bytes": 368
+  },
+  {
+    "file": "avatar-video-project/logs/copy_decode_errors.log",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "file": "avatar-video-project/input/assets/01都市更新的基礎觀念_AI影片生成提示詞.md",
+    "sha256": "32347cbf509e660f5a50240bbbf5ddfac93142799eb1b6b81453a6095fe16d52",
+    "bytes": 19725
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S013.wav",
+    "sha256": "3515f2b2a8fb91dad32833cc2e8b3c6e1cc41134cf665d20db9f948b1030eb05",
+    "bytes": 628780
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S005.wav",
+    "sha256": "745afb5fef261358477c3cac39ba6d86a77645ce2984fa09f2a592bd7a01a75c",
+    "bytes": 588332
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S001.wav",
+    "sha256": "5ffde16983c0830ef1fa162e1b2be33d80c963cad8d7749efe96a7806083ee71",
+    "bytes": 589356
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S009.wav",
+    "sha256": "ff5566f830e30dd629d7b26041599a7bb56ae43eb83695733ad10473b0d870f6",
+    "bytes": 499756
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S010.wav",
+    "sha256": "cc59ef777cb385c425b5b4807f4e2d39967fbc13b5c12dabf16e683eb688a1f6",
+    "bytes": 742956
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S017.wav",
+    "sha256": "a0fe12b207112708542e887a8e3496ee7aef8c3ba135d0e9e4b3536bf574f559",
+    "bytes": 704044
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S018.wav",
+    "sha256": "64aa6322a8d954a6d8dc8fbbebe8d1364c2955194490d04174d5e58ad2202c9b",
+    "bytes": 498732
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S008.wav",
+    "sha256": "921fbfd29f3604b529add2d1b5262867176f636024ac7f62b7de31711bd0e5f3",
+    "bytes": 573484
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S015.wav",
+    "sha256": "e340816b9b457d55188ec18f522b0df906955c7ab70f9aeb83fb91893af73671",
+    "bytes": 507948
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S004.wav",
+    "sha256": "0b8c67d6dfa596e7265b37908854ae1b97d564ca777761aa8d86bcfbb68a8f85",
+    "bytes": 576044
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S003.wav",
+    "sha256": "f3a3fbff4a67ed93d01b4efe59b6306d22805dcb142e1a7e7b81a6652a58a30f",
+    "bytes": 678956
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S014.wav",
+    "sha256": "d293d41f6483cfb61596c65809ee1657b17ae716ea8f55eb514770910aca8563",
+    "bytes": 514604
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S002.wav",
+    "sha256": "a36a68ba873a2fc150cd9dffb01bf76f486e4015fd00f81b8f3304311eca5bd9",
+    "bytes": 644652
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S011.wav",
+    "sha256": "1171bc703badd6da726f265ecb8140ca5d5f282b68663cf9d073a4ede4824046",
+    "bytes": 697900
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S007.wav",
+    "sha256": "c340139a5eff888cedb243c938d653e8c4bebc32cd3e076a18dfc1f051f03e10",
+    "bytes": 661548
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S016.wav",
+    "sha256": "478a84d8a5409f04987645e311ea6900b70dafa7cb954215223fec9cb3c5e307",
+    "bytes": 667692
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S006.wav",
+    "sha256": "fd6232d26e876d14549ac0e2c11ec154d00ad1eb62103c4a4d1da1e49b202655",
+    "bytes": 592428
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S012.wav",
+    "sha256": "0ba544a1ef0b9ad9771695bb1e250a57c57e554b90ef43238568141f1a2acd79",
+    "bytes": 549420
+  },
+  {
+    "file": "avatar-video-project/work/audio/piper_draft/S019.wav",
+    "sha256": "42cc8fcbd7deff15ef07dc853448260b48410d47202670f7df70b30caf5ea340",
+    "bytes": 492588
+  },
+  {
+    "file": "01都市更新_旁白試聽_Piper.wav",
+    "sha256": "35d07ff6d1cefc649f18e1f141d36c7b0048a552bff38ad29a5a74e676764b11",
+    "bytes": 11408428
+  },
+  {
+    "file": "codex_avatar_video_workflow_20260912.md",
+    "sha256": "36e87293137ea378fc7779290d82e4af7145dd687d62896125615a2295839bff",
+    "bytes": 10061
+  },
+  {
+    "file": "local_tts_tool/tts_cli.py",
+    "sha256": "42ba68e6eb9502812155aaff4f9d9b1b2fd7a38f8f356c367331454e3a747f00",
+    "bytes": 5413
+  },
+  {
+    "file": "local_tts_tool/requirements.txt",
+    "sha256": "8c69c856e412e7eaa23612dab75b05032e001391a00b2d0314875753c757a84a",
+    "bytes": 17
+  },
+  {
+    "file": "local_tts_tool/README.md",
+    "sha256": "fa94365bcff59f78bf868e3bc3130fce54e69328a68e1c377144029f20d5f810",
+    "bytes": 3112
+  }
+]

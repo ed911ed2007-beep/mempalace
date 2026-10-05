@@ -1,0 +1,69 @@
+{
+  "versions": {
+    "ffmpeg": "ffmpeg version 9.0.2 Copyright (c) 2000-2026 the FFmpeg developers",
+    "ffprobe": "ffprobe version 9.0.2 Copyright (c) 2007-2026 the FFmpeg developers"
+  },
+  "hashes_match": true,
+  "results": {
+    "source": {
+      "sha256": "246e2b83e5d851bdbec2e9b6e95ce5cbbb9c7475fde18ca52cfb68b8b1b8b501",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280,
+            "pix_fmt": "yuv420p",
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "19.605000",
+          "size": "1624705"
+        }
+      },
+      "decode_exit": 0,
+      "decode_errors": ""
+    },
+    "copy": {
+      "sha256": "246e2b83e5d851bdbec2e9b6e95ce5cbbb9c7475fde18ca52cfb68b8b1b8b501",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280,
+            "pix_fmt": "yuv420p",
+            "r_frame_rate": "25/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "19.605000",
+          "size": "1624705"
+        }
+      },
+      "decode_exit": 0,
+      "decode_errors": ""
+    }
+  }
+}

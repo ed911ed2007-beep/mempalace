@@ -1,0 +1,14 @@
+[
+  {
+    "source": "/home/edward/Downloads/AI Media/01都市更新的基礎觀念_AI影片生成提示詞.md",
+    "copy": "/home/edward/Downloads/AI Media/avatar-video-project/input/assets/01都市更新的基礎觀念_AI影片生成提示詞.md",
+    "sha256": "32347cbf509e660f5a50240bbbf5ddfac93142799eb1b6b81453a6095fe16d52",
+    "verified": true
+  },
+  {
+    "source": "/home/edward/Downloads/AI Media/土開 Avatar.mp4",
+    "copy": "/home/edward/Downloads/AI Media/avatar-video-project/input/avatar_source.mp4",
+    "sha256": "246e2b83e5d851bdbec2e9b6e95ce5cbbb9c7475fde18ca52cfb68b8b1b8b501",
+    "verified": true
+  }
+]

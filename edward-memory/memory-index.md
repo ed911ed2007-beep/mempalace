@@ -46,3 +46,5 @@
 統計：34 條記憶
 
 - [離題王 TASK-034 交接](daily-log/2026-09-13.md) — 圖片核心是身分錯置與道具反噬；已完成程式，待真實圖片評估。
+
+- [都市更新 Avatar／Piper 旁白保存點](projects/urban-renewal-avatar-20261006/SAVEPOINT.md)：19 段與完整 WAV 共 258.693 秒，待試聽與 Avatar 生成授權確認（2026-10-06）。
